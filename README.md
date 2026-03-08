@@ -24,4 +24,9 @@ jmp build_more
 — Yogi Berra
 ```
 
+```
+“Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it.”
+― Linus Torvalds
+```
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
