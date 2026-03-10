@@ -29,4 +29,9 @@ jmp build_more
 ― Linus Torvalds
 ```
 
+```
+“Talk is cheap. Show me the code.”
+― Linus Torvalds
+```
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
